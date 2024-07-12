@@ -4897,84 +4897,6 @@
       "canRemove": true,
       "addPrice": 1500,
       "removePrice": 2000,
-      "degree": -1,
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+25% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "cowardly"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 2000,
-      "degree": 1,
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-50% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "brave"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 2000,
-      "degree": 2,
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-100% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "fearless"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 2000,
       "degree": 0,
       "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
       "stats": [
@@ -5282,9 +5204,6 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Min comfortable temperature",
@@ -5307,9 +5226,6 @@
         "stats": [
           "+80.00 Mass",
           "+70% Flammability",
-          "+1.2 Melee dodge chance",
-          "+108% Melee critical chance",
-          "+106% Melee parry chance",
           "+$5800 Market value",
           "+5 Honor value",
           "+5.20 Move speed",
@@ -5326,9 +5242,10 @@
           "+18% Mental break threshold",
           "+60% Toxic resistance",
           "+60% Toxic environment resistance",
+          "+1.2 Melee dodge chance",
           "+1.0 Melee hit chance",
           "+125% Aiming time",
-          "+1.0 Weapon handling",
+          "+1.0 Shooting accuracy",
           "+115.00% Negotiation ability",
           "+100% Sell price multiplier",
           "+125.00% Social impact",
@@ -5352,13 +5269,11 @@
           "+150% Immunity gain speed",
           "+80% Mining speed",
           "+120% Mining yield",
-          "+2.7 Armor - Sharp",
-          "+3.4 Armor - Blunt",
-          "+60.0% Armor - Heat",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Heat",
           "+500% Injury healing factor",
-          "+5 Wildness",
-          "+100% Suppressability",
-          "+60% Smoke sensitivity"
+          "+5 Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -5375,9 +5290,6 @@
         "stats": [
           "+35.00 Mass",
           "+100% Flammability",
-          "+1.1 Melee dodge chance",
-          "+95% Melee critical chance",
-          "+100% Melee parry chance",
           "+$2000 Market value",
           "+4.85 Move speed",
           "+31.0C Max comfortable temperature",
@@ -5389,6 +5301,7 @@
           "+110% Eating speed",
           "+35 Meat amount",
           "+35 Leather amount",
+          "+1.2 Melee dodge chance",
           "+118% Aiming time",
           "+85.00% Negotiation ability",
           "+107.00% Social impact",
@@ -5415,9 +5328,6 @@
         "stats": [
           "+35.00 Mass",
           "+100% Flammability",
-          "+1.1 Melee dodge chance",
-          "+95% Melee critical chance",
-          "+100% Melee parry chance",
           "+$2000 Market value",
           "+4.85 Move speed",
           "+31.0C Max comfortable temperature",
@@ -5429,6 +5339,7 @@
           "+110% Eating speed",
           "+35 Meat amount",
           "+35 Leather amount",
+          "+1.2 Melee dodge chance",
           "+118% Aiming time",
           "+75.00% Negotiation ability",
           "+95.00% Social impact",
@@ -5456,20 +5367,11 @@
         "stats": [
           "+65.00 Mass",
           "+100% Flammability",
-          "+0.0 Melee dodge chance",
-          "+130% Melee critical chance",
-          "+50% Melee parry chance",
           "+$3000 Market value",
           "+100 Carrying capacity",
           "+100% Global learning factor",
           "+0 Foraged food amount",
-          "+40 Leather amount",
-          "+100.00% Aiming accuracy",
-          "+90% Suppressability",
-          "+90% Smoke sensitivity",
-          "+30 Bulk capacity",
-          "+60 Carry weight",
-          "+125% Reload speed"
+          "+40 Leather amount"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -5486,9 +5388,6 @@
         "stats": [
           "+52.00 Mass",
           "+0% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
           "+$5500 Market value",
           "+4.60 Move speed",
           "+22% Mental break threshold",
@@ -5530,9 +5429,7 @@
           "+25.0% Armor - Heat",
           "+2.00 Neural heat recovery rate",
           "+150% / day Meditation psyfocus gain",
-          "+3 Mech bandwidth",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
+          "+3 Mech bandwidth"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -5549,9 +5446,6 @@
         "stats": [
           "+55.00 Mass",
           "+50% Flammability",
-          "+1.2 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
           "+3 Honor value",
           "+$2200 Market value",
           "+5.00 Move speed",
@@ -5564,9 +5458,10 @@
           "+50 Leather amount",
           "+80% Pain shock threshold",
           "+100% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
           "+1.0 Melee hit chance",
           "+100% Aiming time",
-          "+1.0 Weapon handling",
+          "+1.0 Shooting accuracy",
           "+100% Sell price multiplier",
           "+90.00% Negotiation ability",
           "+90.00% Trade price improvement",
@@ -5604,9 +5499,6 @@
         "stats": [
           "+50.00 Mass",
           "+80% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.80 Move speed",
           "+40% Mental break threshold",
@@ -5633,9 +5525,7 @@
           "+100% Rest rate multiplier",
           "+80% Plant work speed",
           "+0.5 Filth rate",
-          "+1.4 Max nutrition",
-          "+100% Suppressability",
-          "+100% Smoke sensitivity"
+          "+1.4 Max nutrition"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -5652,9 +5542,6 @@
         "stats": [
           "+45.00 Mass",
           "+90% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
           "+$1250 Market value",
           "+85 Carrying capacity",
           "+70% Pain shock threshold",
@@ -5675,9 +5562,7 @@
           "+100% Honey gather speed",
           "+100% Honey gather yield",
           "+100% Plant gather speed",
-          "+100% Honey gather yield",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
+          "+100% Honey gather yield"
         ],
         "mod": "Unknown",
         "karmaType": null
