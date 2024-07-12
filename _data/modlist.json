@@ -6,6 +6,12 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "gguake",
+    "name": "Vivi Race",
+    "steamId": "3241577976",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -282,6 +288,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kalo",
+    "name": "Dragonian Mix",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "EoralMilk",
     "name": "Meow Framework",
     "steamId": null,
@@ -348,12 +372,6 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Samael Gray",
     "name": "Paramount Combat Armaments",
     "steamId": null,
@@ -410,12 +428,6 @@
   {
     "author": "金兔子拉面",
     "name": "AFU男士发型_Men's hairstyles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "VAMV",
-    "name": "Maru Race",
     "steamId": null,
     "version": null
   },
@@ -558,36 +570,6 @@
     "version": null
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended Melee",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Attachments",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Armors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Cleaning Priority (Continued)",
     "steamId": null,
@@ -666,12 +648,6 @@
     "version": null
   },
   {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ancot",
     "name": "Ancots Dragonian Facial Animation",
     "steamId": null,
@@ -702,21 +678,111 @@
     "version": null
   },
   {
-    "author": "Kalo",
-    "name": "Dragonian Mix",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "gguake",
-    "name": "Vivi Race",
-    "steamId": "3241577976",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Latta, Skullywag and Antaios",
+    "name": "BetterCoolers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.3"
+  },
+  {
+    "author": "Taveron",
+    "name": "Increased Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Elshender",
+    "name": "Stackable Chunks [1.5]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JF",
+    "name": "[JF] Geometric Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tiagorbrodrigues",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HellRevenger",
+    "name": "Batch Install",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Cut plants before building (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AmCh and Missionz3r0",
+    "name": "Improved Need Indicator",
+    "steamId": "3211635205",
+    "version": "1.0.0"
+  },
+  {
+    "author": "klvlt",
+    "name": "LED Lights (1.4+ Fork)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "More Vanilla Turrets (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Searchable Menus",
+    "steamId": "2928608119",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedRam",
+    "name": "Stone Conversion Recipes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "3261317086",
+    "version": "1.5"
+  },
+  {
+    "author": "Xercaine",
+    "name": "Wall Heater",
+    "steamId": null,
+    "version": null
   }
 ]
