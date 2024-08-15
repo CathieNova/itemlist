@@ -4868,36 +4868,6 @@
       "addPrice": 1500,
       "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy don't care about the awful bedroom environment.",
-      "stats": [],
-      "conflicts": [
-        "ascetic",
-        "greedy",
-        "jealous"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic",
-          "greedy",
-          "jealous"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ratkin Gene Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RKTrait_YunDanFengQing",
-      "name": "takeiteasy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 2000,
-      "degree": 0,
       "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
       "stats": [
         "Flame meditation focus type allowed."
@@ -5195,6 +5165,62 @@
       },
       "defName": "MRT_MountainD",
       "name": "warp"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when him playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     }
   ],
   "races": [
@@ -5288,7 +5314,7 @@
       "data": {
         "customName": false,
         "stats": [
-          "+35.00 Mass",
+          "+50.00 Mass",
           "+100% Flammability",
           "+$2000 Market value",
           "+4.85 Move speed",
@@ -5297,12 +5323,12 @@
           "+110% Immunity gain speed",
           "+45 Carrying capacity",
           "+70% Pain shock threshold",
-          "+90% Toxic environment resistance",
+          "+50% Toxic environment resistance",
           "+110% Eating speed",
           "+35 Meat amount",
-          "+35 Leather amount",
+          "+30 Leather amount",
           "+1.2 Melee dodge chance",
-          "+118% Aiming time",
+          "+104% Aiming time",
           "+85.00% Negotiation ability",
           "+107.00% Social impact",
           "+110% Mining speed",
@@ -5310,8 +5336,7 @@
           "+110% Plant work speed",
           "+115% Hunting stealth",
           "+90% Construction speed",
-          "+80% Research speed",
-          "+60.00% Food poison chance"
+          "+80% Research speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -5326,7 +5351,7 @@
       "data": {
         "customName": false,
         "stats": [
-          "+35.00 Mass",
+          "+50.00 Mass",
           "+100% Flammability",
           "+$2000 Market value",
           "+4.85 Move speed",
@@ -5338,9 +5363,9 @@
           "+80% Toxic environment resistance",
           "+110% Eating speed",
           "+35 Meat amount",
-          "+35 Leather amount",
+          "+30 Leather amount",
           "+1.2 Melee dodge chance",
-          "+118% Aiming time",
+          "+104% Aiming time",
           "+75.00% Negotiation ability",
           "+95.00% Social impact",
           "+110% Mining speed",
@@ -5349,7 +5374,6 @@
           "+115% Hunting stealth",
           "+90% Construction speed",
           "+80% Research speed",
-          "+60.00% Food poison chance",
           "+85% Psychic sensitivity"
         ],
         "mod": "Unknown",
@@ -5359,27 +5383,6 @@
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
-      "price": 500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+100 Carrying capacity",
-          "+100% Global learning factor",
-          "+0 Foraged food amount",
-          "+40 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
       "price": 500
     },
     {
@@ -5524,8 +5527,7 @@
           "+1.1 Cooking speed",
           "+100% Rest rate multiplier",
           "+80% Plant work speed",
-          "+0.5 Filth rate",
-          "+1.4 Max nutrition"
+          "+0.5 Filth rate"
         ],
         "mod": "Unknown",
         "karmaType": null
