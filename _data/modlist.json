@@ -30,16 +30,16 @@
     "version": "1.7.1"
   },
   {
-    "author": "Ed86",
-    "name": "NoKidnaping",
+    "author": "Zaljerem",
+    "name": "Wall Vitals Monitor (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "alt4s",
-    "name": "Visit Settlements",
-    "steamId": "3247900860",
-    "version": "1.0.0.0"
+    "author": "Xercaine",
+    "name": "Wall Heater",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nals",
@@ -50,6 +50,36 @@
   {
     "author": "Nals",
     "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kalo",
+    "name": "Dragonian Mix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seioch and MaroonToon",
+    "name": "Kurin HAR Edition",
     "steamId": null,
     "version": null
   },
@@ -102,18 +132,6 @@
     "version": null
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
     "author": "Side1iner",
     "name": "Traits Plus",
     "steamId": null,
@@ -126,14 +144,14 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Sam",
-    "name": "Tilled Soil",
-    "steamId": null,
-    "version": null
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "3261317086",
+    "version": "1.5"
   },
   {
-    "author": "GodlyAnnihilator",
-    "name": "The Cooler",
+    "author": "Sam",
+    "name": "Tilled Soil",
     "steamId": null,
     "version": null
   },
@@ -141,7 +159,7 @@
     "author": "Mlie",
     "name": "Tab-sorting",
     "steamId": "2138635288",
-    "version": "1.5.1"
+    "version": "1.5.8"
   },
   {
     "author": "DarkShadow44",
@@ -156,14 +174,14 @@
     "version": null
   },
   {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring",
-    "steamId": null,
-    "version": null
+    "author": "Scurvyez",
+    "name": "Steve's Walls",
+    "steamId": "2616538981",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Xeva",
-    "name": "Standalone Hot Spring Retexture",
+    "author": "Elshender",
+    "name": "Stackable Chunks [1.5]",
     "steamId": null,
     "version": null
   },
@@ -192,10 +210,28 @@
     "version": "1.5"
   },
   {
+    "author": "Despenso",
+    "name": "Small Hi-tech Research Bench",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ray1203",
     "name": "SimpleCameraSetting",
     "steamId": "3232415388",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simple Stockpile Presets (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arvkus, Proxyer and Lanilor",
+    "name": "Simple Recycling",
+    "steamId": "3239309389",
+    "version": "2.0.0.0+ffabfa2b830bb6f78691287a04f8f2e5b2d79a43"
   },
   {
     "author": "Owlchemist and Mlie",
@@ -228,10 +264,40 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SGG1",
-    "name": "SGG1's Retexture : Revia Race",
+    "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since 1.4: GrobmotoriGER\n    ",
+    "name": "Semi Random Research (Unofficial)",
+    "steamId": "2879094186",
+    "version": "1.1.9"
+  },
+  {
+    "author": "FerrisCG",
+    "name": "SemiRandomResearchHotfix",
+    "steamId": "3260284507",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Searchable Menus",
+    "steamId": "2928608119",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   },
   {
     "author": "Loconeko",
@@ -252,8 +318,44 @@
     "version": "1.15.3.0"
   },
   {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Spdskatr, firefoxpdm, Mlie and kd8lvt",
+    "name": "Researchable Stat Upgrades Rewritten",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.3"
+  },
+  {
     "author": "CyrusJazzberry",
     "name": "Renewable Mechtech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Toby",
+    "name": "Rename Settlements",
+    "steamId": "3237145585",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MRGames",
+    "name": "Removes Tainted Clothes",
     "steamId": null,
     "version": null
   },
@@ -282,64 +384,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "VAMV",
-    "name": "Maru Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kalo",
-    "name": "Dragonian Mix",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "EoralMilk",
-    "name": "Meow Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "EoralMilk",
-    "name": "Ratkin Gene Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "EoralMilk",
-    "name": "Ratkin: Promised land Ruleless Moustate",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Machine",
     "name": "Raise The Roof 1.5",
     "steamId": "3225597321",
     "version": "1.0.0.0"
   },
   {
-    "author": "HellRevenger",
-    "name": "Quick Area",
-    "steamId": "3252220145",
-    "version": "1.0.0.0"
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
   },
   {
     "author": "ponpeco",
@@ -354,14 +408,14 @@
     "version": "1.5.1"
   },
   {
-    "author": "Compilatron and Owlchemist",
-    "name": "Power Tab 2",
+    "author": "The Village Guy",
+    "name": "Primitive moisture pump",
     "steamId": null,
     "version": null
   },
   {
-    "author": "ponpeco",
-    "name": "Ponpeco Hair",
+    "author": "Compilatron and Owlchemist",
+    "name": "Power Tab 2",
     "steamId": null,
     "version": null
   },
@@ -372,20 +426,44 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Limey Lassen",
+    "name": "Passive Cooler Don't Need Fuel",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Samael Gray",
     "name": "Paramount Combat Armaments",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Farmradish",
-    "name": "Nyaron race",
+    "author": "Kpeti",
+    "name": "Painkiller",
     "steamId": null,
     "version": null
   },
   {
-    "author": "塔洛斯",
-    "name": "Nyaron Facial Animation",
+    "author": "Neronix17",
+    "name": "Outland - Terrain",
+    "steamId": "2850840457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Temmie3754",
+    "name": "Off-Map Caravan Loading",
+    "steamId": "3266750678",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ed86",
+    "name": "NoKidnaping",
     "steamId": null,
     "version": null
   },
@@ -396,26 +474,26 @@
     "version": null
   },
   {
+    "author": "Zaljerem",
+    "name": "More Vanilla Turrets (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
+  },
+  {
     "author": "Alan Dariva and Usagirei",
     "name": "More Planning [1.5]",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ancot",
-    "name": "Ancot Library",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ancot",
-    "name": "Milira Race",
-    "steamId": "3256974620",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ancot",
-    "name": "Milira Race Facial Animation",
+    "author": "Yorbil",
+    "name": "Missing Fabrication Recipes",
     "steamId": null,
     "version": null
   },
@@ -426,10 +504,10 @@
     "version": null
   },
   {
-    "author": "金兔子拉面",
-    "name": "AFU男士发型_Men's hairstyles",
-    "steamId": null,
-    "version": null
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
   },
   {
     "author": "otenkigeta",
@@ -444,14 +522,20 @@
     "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
   },
   {
-    "author": "ferny",
-    "name": "Lighting Category",
+    "author": "幽月琉璃Luna",
+    "name": "Luna的压缩深度储存冰箱",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Seioch and MaroonToon",
-    "name": "Kurin HAR Edition",
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Lighting Category",
     "steamId": null,
     "version": null
   },
@@ -468,12 +552,6 @@
     "version": null
   },
   {
-    "author": "空岚KL_BR184",
-    "name": "Kurin HAR Clothes Fix",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Pisiunas",
     "name": "Item Stats Tooltip",
     "steamId": "3230465110",
@@ -486,14 +564,14 @@
     "version": null
   },
   {
-    "author": "MeasleMissile",
-    "name": "Inexpensive Research + Royalty(reworked + continued)",
+    "author": "Taveron",
+    "name": "Increased Stack",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Feng Xinzi",
-    "name": "Hyacinth's Ratkin Facial Animation",
+    "author": "Mlie",
+    "name": "I Clearly Have Enough! (Continued)",
     "steamId": null,
     "version": null
   },
@@ -504,14 +582,20 @@
     "version": null
   },
   {
+    "author": "AliceTries",
+    "name": "FindAGunDamnIt! (Continued)",
+    "steamId": "2089553836",
+    "version": "1.5.2"
+  },
+  {
     "author": "Barbariank",
     "name": "Facial Animation - Retexture",
     "steamId": null,
     "version": null
   },
   {
-    "author": "NukaFrog",
-    "name": "Enhanced Battery",
+    "author": "MattDaJoo",
+    "name": "Extended Cargo Pods",
     "steamId": null,
     "version": null
   },
@@ -522,8 +606,26 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Durable Clothes (Continued)",
+    "steamId": "2015395963",
+    "version": "1.5.0"
+  },
+  {
+    "author": "ianchen31",
+    "name": "Dummy! (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "czpetr",
     "name": "Drugs are not Food (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
     "steamId": null,
     "version": null
   },
@@ -540,10 +642,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "ponpeco",
-    "name": "Dog Retexture",
-    "steamId": null,
-    "version": null
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2880481073",
+    "version": "1.0.3"
   },
   {
     "author": "Alias",
@@ -552,10 +654,10 @@
     "version": null
   },
   {
-    "author": "Vicaki",
-    "name": "Cure Blight (Continued)",
-    "steamId": null,
-    "version": null
+    "author": "民火",
+    "name": "Cut plants before building (Continued)",
+    "steamId": "3286376165",
+    "version": "1.5.2"
   },
   {
     "author": "Anonymous",
@@ -570,10 +672,10 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Cleaning Priority (Continued)",
-    "steamId": null,
-    "version": null
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.5.4062.1"
   },
   {
     "author": "Owlchemist",
@@ -600,14 +702,14 @@
     "version": null
   },
   {
-    "author": "Fuu Chan",
-    "name": "Blood Animations",
-    "steamId": "3228047321",
-    "version": "1.0.0.0"
+    "author": "Latta, Skullywag and Antaios",
+    "name": "BetterCoolers",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Konhai",
-    "name": "Better Turrets",
+    "author": "HappyBodi",
+    "name": "Better Multi-Analyzers",
     "steamId": null,
     "version": null
   },
@@ -618,14 +720,38 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "tiagorbrodrigues",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dingo",
     "name": "Autoclose Event Notifications",
     "steamId": "3226920093",
     "version": "1.5.8874.2"
   },
   {
-    "author": "JKV",
-    "name": "Arisu clean sweeper",
+    "author": "AUTOMATIC",
+    "name": "Autocleaner",
+    "steamId": "2051042827",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Funstab",
+    "name": "Auto Self-Tend",
+    "steamId": "3300580124",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Assault Rifle Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viking",
+    "name": "Architect Icons: Viking Edition Colored Icons",
     "steamId": null,
     "version": null
   },
@@ -636,10 +762,106 @@
     "version": null
   },
   {
-    "author": "Oblitus",
-    "name": "Animals Logic",
-    "steamId": "1098354593",
-    "version": "1.0.8838.38019"
+    "author": "alleZSoyez",
+    "name": "AnyPlant",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Luke_lu",
+    "name": "Vivi Race Hive mind patch",
+    "steamId": "3262188287",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Aqua",
+    "name": "Uncapped Besties!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SGG1",
+    "name": "SGG1's Retexture : Revia Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "riprusse",
+    "name": "Palm Cats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "poRoyal",
+    "name": "No man in black",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Village Guy",
+    "name": "No Drop Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race",
+    "steamId": "3256974620",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "Hyacinth's Ratkin Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Edge Crescent",
+    "name": "HousekeeperAssistanceCat",
+    "steamId": "1541620640",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chris",
+    "name": "Cuter Biotech Cat/Dog Ear Replacer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chris",
+    "name": "Catgirls not blue Aliens: Cuter Highmates",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "M.Y.G",
+    "name": "[OA]Ratkin Gene Expand",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JisPichi",
@@ -654,14 +876,14 @@
     "version": null
   },
   {
-    "author": "Chad",
-    "name": "Almostthere1.5",
-    "steamId": "3232229153",
-    "version": "1.0.0.0"
+    "author": "Nals",
+    "name": "[NL] Realistic Body",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "金兔子拉面",
-    "name": "AFU女士发型_Women's hairstyles",
+    "author": "Nals",
+    "name": "[NL] Compatible Body 2",
     "steamId": null,
     "version": null
   },
@@ -672,117 +894,21 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "CaptoLamia",
-    "name": "[CAP]Biotech Nyaron HAR Addition",
-    "steamId": null,
-    "version": null
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
-  },
-  {
-    "author": "Latta, Skullywag and Antaios",
-    "name": "BetterCoolers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Garethp",
-    "name": "Replace Stuff Mod Compatibility",
-    "steamId": "2642161586",
-    "version": "2.0.3"
-  },
-  {
-    "author": "Taveron",
-    "name": "Increased Stack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Elshender",
-    "name": "Stackable Chunks [1.5]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JF",
-    "name": "[JF] Geometric Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tiagorbrodrigues",
-    "name": "Auto-Cut Blight",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HellRevenger",
-    "name": "Batch Install",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "民火",
-    "name": "Cut plants before building (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AmCh and Missionz3r0",
-    "name": "Improved Need Indicator",
-    "steamId": "3211635205",
-    "version": "1.0.0"
-  },
-  {
-    "author": "klvlt",
-    "name": "LED Lights (1.4+ Fork)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "More Vanilla Turrets (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "kathanon",
-    "name": "Float Sub-Menus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "kathanon",
-    "name": "Searchable Menus",
-    "steamId": "2928608119",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "RedRam",
-    "name": "Stone Conversion Recipes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Toggleable Readouts",
-    "steamId": "3261317086",
-    "version": "1.5"
-  },
-  {
-    "author": "Xercaine",
-    "name": "Wall Heater",
-    "steamId": null,
-    "version": null
   }
 ]
